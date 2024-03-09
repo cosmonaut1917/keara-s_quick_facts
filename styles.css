@@ -1,0 +1,77 @@
+/* index.html start */
+title {
+    padding: 1em;
+    font-size: 2em;
+    text-align: center;
+}
+
+header {
+    background-color: darkgreen;
+    color: white;
+    padding: 1em;
+    text-align: left;
+}
+
+body {
+    background-color: forestgreen;
+}
+
+.main-body {
+    padding: 1em;
+    text-align: left;
+    background-color: white;
+    margin: 1em;
+}
+
+h1 {
+    font-size: 1.5em;
+    text-align: left;
+    background-color: whitesmoke;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: left;
+    background-color: whitesmoke;
+    justify-content: center;
+}
+
+.game {
+    padding: 1em;
+    font-size: 1.5em;
+    text-align: right;
+}
+
+.home {
+    padding: 1em;
+    font-size: 1.5em;
+    text-align: right;
+}
+
+.coloring {
+    padding: 1em;
+    font-size: 1.5em;
+    text-align: right;
+}
+
+.facts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+/* index.html end */
+/* game.html start */
+/* game.html */
+/* coloring start */
+
+/* coloring end */

@@ -1,0 +1,37 @@
+header {
+    background-color: darkgreen;
+    color: white;
+    padding: 1em;
+    text-align: left;
+}
+
+body {
+    background-color: forestgreen;
+}
+.coloring {
+    display: flex;
+    align-content: row ;
+    width: 200px;
+    size: 100px;
+    padding: 1em;
+    /* display: flex;
+    flex-wrap: wrap;
+    max-height: 4em; Adjust this value according to the height of your rows */
+}
+.coloring img {
+    width: 400px;
+    height: 400px;
+    padding: 1em;
+}
+.coloring img:hover {
+    width: 450px;
+    height: 450px;
+    padding: 1em;
+}
+.title-coloring{
+    text-align: center;
+    font-size: 2em;
+    background-color: whitesmoke;
+    justify-content: center;
+   
+}
